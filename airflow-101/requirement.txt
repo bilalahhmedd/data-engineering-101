@@ -1,4 +1,4 @@
-alembic==1.8.0
+#alembic==1.8.0
 anyio==3.6.1
 apache-airflow==2.3.3
 apache-airflow-providers-ftp==3.0.0
