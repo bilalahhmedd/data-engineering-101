@@ -9,14 +9,3 @@ from airflow.operators.empty import EmptyOperator
 
 # [End import module]
 
-
-
-"""
-with DAG(
-
-
-
-) as dag:
-    
-"""
-
