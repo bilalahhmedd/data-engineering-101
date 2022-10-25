@@ -9,7 +9,7 @@ from airflow.decorators import dag, task
     #schedule_interval=None,
     start_date=pendulum.datetime(2022,10,14,tz='UTC'),
     catchup=False,
-    tags=['example'],
+    tags=['taskflow_api_expample'],
 )
 def taskflow_api():
     @task
