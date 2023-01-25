@@ -1,0 +1,9 @@
+create ec2 instance 
+create s3 storage bucket
+upload data to bucket using terminal or gui console
+
+emr pyspakr job will preprocess data
+glue crawler will collect data 
+aws anthena will query data from s3 storage for visualization
+
+
